@@ -18,4 +18,4 @@
  - git - intermediate
  - docker - beginner
 # Interests
-Mostly interested in low level/embedded programming. I'm a fan of C++/C (I know they are not the same language). Python for fast prototyping or ML is also enjoyable as well as java for the backend.
+Trying to find my way somewhere between low level programming and AI. I'm a fan of C++/C (I know they are not the same language). Python for fast prototyping or ML is also enjoyable as well as java for the backend.
