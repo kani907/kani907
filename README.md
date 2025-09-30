@@ -2,12 +2,14 @@
  - Name: Kajetan Witkowski
  - Birthdate: 12th April 2004
 # Education
- - Computer Engineering student at WUT EiTI faculty <- (3/7 semesters complete)
+ - Computer Science and Engineering at KNU <- (0/2 semesters complete)
+ - Computer Engineering student at WUT EiTI faculty <- (4/7 semesters complete)
  - XXVII LO im. Tadeusza Czackiego w Warszawie
 # Work History
 ## Current positions:
- - assistant member of the management board at <a href="">ELSA</a>
+ 
 ## Past positions
+ - assistant member of the management board at <a href="">ELSA</a>
  - Summer camp caretaker at <a href="">ELSA</a>
 
 # Technologies
