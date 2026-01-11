@@ -20,4 +20,4 @@
  - git - intermediate
  - docker - beginner
 # Interests
-Trying to find my way somewhere between low level programming and AI. I'm a fan of C++/C (I know they are not the same language). Python for fast prototyping or ML is also enjoyable as well as java for the backend.
+After long thought process I finally settled on AI mostly developed using Python programming language. PyTorch is my go to library for that.
