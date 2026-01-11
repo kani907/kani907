@@ -2,7 +2,7 @@
  - Name: Kajetan Witkowski
  - Birthdate: 12th April 2004
 # Education
- - Computer Science and Engineering at KNU <- (0/2 semesters complete)
+ - Computer Science and Engineering at KNU <- (1/2 semesters complete)
  - Computer Engineering student at WUT EiTI faculty <- (4/7 semesters complete)
  - XXVII LO im. Tadeusza Czackiego w Warszawie
 # Work History
